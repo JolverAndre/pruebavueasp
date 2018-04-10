@@ -1,0 +1,11 @@
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\bin\Debug\netcoreapp2.0\PruebaVue.deps.json
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\bin\Debug\netcoreapp2.0\PruebaVue.runtimeconfig.json
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\bin\Debug\netcoreapp2.0\PruebaVue.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\bin\Debug\netcoreapp2.0\PruebaVue.dll
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\bin\Debug\netcoreapp2.0\PruebaVue.pdb
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\obj\Debug\netcoreapp2.0\PruebaVue.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\obj\Debug\netcoreapp2.0\PruebaVue.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\obj\Debug\netcoreapp2.0\PruebaVue.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\obj\Debug\netcoreapp2.0\PruebaVue.AssemblyInfo.cs
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\obj\Debug\netcoreapp2.0\PruebaVue.dll
+C:\Users\Andre\source\repos\PruebaVue\PruebaVue\obj\Debug\netcoreapp2.0\PruebaVue.pdb
